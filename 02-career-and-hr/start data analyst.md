@@ -113,9 +113,11 @@ Data is highly correlated with how it is stored.
 Tulis jawabanmu di sini:
 
 ```text
-Kasus 1 (Raphael)  :
-Kasus 2 (Shaenette):
-Kasus 3 (Haji Endo):
+Kasus 1 (Raphael)  : bisa, dengan cara raphael harus mencatat setiap penjualan dan stok sayuran, sehingga dia bisa menganalisis penjualan apa saja yg laris dan tinggal berapa stok yang dia punya. sehingga dia bisa memprioritaskan apa yang stok dia beli nantinya.
+
+Kasus 2 (Shaenette): perlu, terutama dia harus mencatat setiap produk dan penjualan, sehingga ketika dia sudah mulai jualan dia bisa meningkatkan produksi di produk yg lebih laris.
+
+Kasus 3 (Haji Endo): dia perlu mencatat setiap penggalangan dana (siapa donaturnya, kapan, via apa) agar bisa menentukan kapan dan pakai apa penggalangan dana tersebut dan juga menjaga silaturahmi antara dia dengan donatur. dia juga perlu mencatat setiap hasil dari penyaluran bantuan (kapan, dimana, jumlahnya) sehingga dia bisa menyalurkan waktu, lokasi, dan kebutuhan korban secara tepat, dengan kondisi yang ada.
 ```
 
 ---
